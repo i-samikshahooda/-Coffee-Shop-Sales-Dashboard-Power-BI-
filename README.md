@@ -81,3 +81,5 @@ The dashboard provides a clear and interactive view of key performance metrics t
 ---
 
 ⭐ If you like this project, don’t forget to star the repo!
+<img width="1289" height="728" alt="Screenshot 2026-03-30 191154" src="https://github.com/user-attachments/assets/a4456ea5-1637-4adc-a99d-388e0c022021" />
+
