@@ -76,8 +76,7 @@ The dashboard provides a clear and interactive view of key performance metrics t
 ---
 
 ## 📬 Connect With Me
-- LinkedIn: *(Add your link here)*
-- Portfolio: *(Add your portfolio link here)*
+- LinkedIn: www.linkedin.com/in/samiksha-hooda-a371b4348
 
 ---
 
